@@ -1,4 +1,6 @@
-<h1>Secure Register System Using PHP and mySQL.</h1>
+<h1>Secure Login System Using PHP and mySQL.</h1>
+
+I've also created the secure register system.
 
 <h3>Requirements</h3>
 
